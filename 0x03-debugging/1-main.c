@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - causesi an infinite loop
  * Return: 0
@@ -17,4 +18,3 @@ int main(void)
 	printf("infinite loop avoided! \\o/\n");
 	return (0);
 }
-
